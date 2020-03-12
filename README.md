@@ -7,10 +7,8 @@
 
 使用bootstrap、html、css，js
 # 网页展示
-![Image text]
-(https://github.com/chenzhao11/Recruitment/raw/master/ImageFloder/1.png)
-![Image text]
-(https://github.com/chenzhao11/Recruitment/raw/master/ImageFloder/2.png)
+![Image text](https://github.com/chenzhao11/Recruitment/raw/master/ImageFloder/1.png)
+![Image text](https://github.com/chenzhao11/Recruitment/raw/master/ImageFloder/2.png)
 ![Image text]
 (https://github.com/chenzhao11/Recruitment/raw/master/ImageFloder/3.png)
 ![Image text]
